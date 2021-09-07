@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\banking\main.cpp
+	<iostream>
+
+1625909542 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\banking\banking.cpp
+	<iostream>
+	"AccountBase.h"
+	"CreditAccount.h"
+	"SavingsAccount.h"
+
+1625909041 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\banking\accountbase.h
+	<string>
+
+1625909058 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\banking\creditaccount.h
+	<string>
+	"AccountBase.h"
+
+1625909058 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\banking\savingsaccount.h
+	<string>
+	"AccountBase.h"
+
+1626065716 source:c:\users\vikram patel\desktop\oops_c++\set 3\banking\banking.cpp
+	<iostream>
+	"AccountBase.h"
+	"CreditAccount.h"
+	"SavingsAccount.h"
+
+1626062226 c:\users\vikram patel\desktop\oops_c++\set 3\banking\accountbase.h
+	<string>
+
+1626065713 c:\users\vikram patel\desktop\oops_c++\set 3\banking\creditaccount.h
+	<string>
+	"AccountBase.h"
+
+1626065710 c:\users\vikram patel\desktop\oops_c++\set 3\banking\savingsaccount.h
+	<string>
+	"AccountBase.h"
+
+1626061468 source:c:\users\vikram patel\desktop\oops_c++\set 3\banking\main.cpp
+	<iostream>
+	"AccountBase.h"
+	"SavingsAccount.h"
+	"CreditAccount.h"
+

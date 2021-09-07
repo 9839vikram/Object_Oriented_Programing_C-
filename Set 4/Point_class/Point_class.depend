@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1625988294 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\point_class\main.cpp
+	<iostream>
+	"PointClass.h"
+	"PointClass.cpp"
+
+1625988280 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\point_class\pointclass.h
+
+1625988169 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\point_class\pointclass.cpp
+	"PointClass.h"
+	<iostream>
+	<math.h>
+
+1625988169 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\point_class\pointclass.cpp
+	"PointClass.h"
+	<iostream>
+	<math.h>
+

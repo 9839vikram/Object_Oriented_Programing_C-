@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625855884 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\box_class\box_class\main.cpp
+	<iostream>
+	"Box_Class.h"
+
+1625859438 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\box_class\box_class\box_class.h
+
+1625859328 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\box_class\box_class\box_class.cpp
+	<iostream>
+	"Box_Class.h"
+

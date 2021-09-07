@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626094170 source:c:\users\vikram patel\desktop\oops_c++\set 2\currency_class\main.cpp
+	<iostream>
+	"Currency.h"
+
+1626094278 c:\users\vikram patel\desktop\oops_c++\set 2\currency_class\currency.h
+
+1626094326 source:c:\users\vikram patel\desktop\oops_c++\set 2\currency_class\currency.cpp
+	<iostream>
+	"Currency.h"
+

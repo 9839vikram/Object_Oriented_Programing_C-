@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1626108320 source:c:\users\vikram patel\desktop\oops_c++\set 4\array_implementation\array.cpp
+	<iostream>
+	"Array.h"
+
+1626097634 c:\users\vikram patel\desktop\oops_c++\set 4\array_implementation\array.h
+
+1626107885 source:c:\users\vikram patel\desktop\oops_c++\set 4\array_implementation\main.cpp
+	<iostream>
+	"Array.h"
+	"Array.cpp"
+
+1626108320 c:\users\vikram patel\desktop\oops_c++\set 4\array_implementation\array.cpp
+	<iostream>
+	"Array.h"
+

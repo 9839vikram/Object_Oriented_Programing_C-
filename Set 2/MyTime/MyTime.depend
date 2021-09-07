@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625900532 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\mytime\main.cpp
+	<iostream>
+	"MyTime.h"
+
+1625904140 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\mytime\mytime.cpp
+	<iostream>
+	"MyTime.h"
+
+1625904085 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\mytime\mytime.h
+

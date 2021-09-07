@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1625917804 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\employee_scenario\main.cpp
+	<iostream>
+	"Employee.h"
+	"Engineer.h"
+	"Manager.h"
+
+1625917497 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\employee_scenario\employee.h
+
+1625917497 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\employee_scenario\engineer.h
+	"Employee.h"
+
+1625917497 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\employee_scenario\manager.h
+	"Employee.h"
+	"Employee.h"
+
+1625917852 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 3\employee_scenario\employee_scenario.cpp
+	<iostream>
+	"Employee.h"
+	"Engineer.h"
+	"Manager.h"
+

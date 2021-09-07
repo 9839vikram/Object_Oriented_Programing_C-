@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1625888507 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\complex_number\main.cpp
+	<iostream>
+	"Complex_Number.h"
+
+1625888355 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\complex_number\complex_number.h
+
+1625888955 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 2\complex_number\complex_number.cpp
+	<iostream>
+	"Complex_Number.h"
+
+1626037147 source:c:\users\vikram patel\desktop\oops_c++\set 2\complex_number\complex_number.cpp
+	<iostream>
+	"Complex_Number.h"
+
+1626035589 c:\users\vikram patel\desktop\oops_c++\set 2\complex_number\complex_number.h
+

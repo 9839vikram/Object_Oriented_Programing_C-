@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625860820 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\account_class\account_class.cpp
+	<iostream>
+	"Account_Class.h"
+
+1625860083 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\account_class\account_class.h
+
+1625860699 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\account_class\main.cpp
+	<iostream>
+	"Account_Class.h"
+

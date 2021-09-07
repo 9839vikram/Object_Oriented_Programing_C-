@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1625922758 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\generic_complex_number\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1625988636 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\generic_complex_number\complex.h
+
+1625988457 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\generic_complex_number\main.cpp
+	<iostream>
+	"Complex.h"
+	"Complex.cpp"
+
+1625988694 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 4\generic_complex_number\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1626072987 source:c:\users\vikram patel\desktop\oops_c++\set 4\generic_complex_number\complex.cpp
+	<iostream>
+	"Complex.h"
+
+1626072828 c:\users\vikram patel\desktop\oops_c++\set 4\generic_complex_number\complex.h
+
+1625943456 source:c:\users\vikram patel\desktop\oops_c++\set 4\generic_complex_number\main.cpp
+	<iostream>
+	"Complex.h"
+	"Complex.cpp"
+
+1625943694 c:\users\vikram patel\desktop\oops_c++\set 4\generic_complex_number\complex.cpp
+	<iostream>
+	"Complex.h"
+

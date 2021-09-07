@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626083505 source:c:\users\vikram patel\desktop\oops_c++\set 1\point_class\main.cpp
+	<iostream>
+	"Point.h"
+
+1626083274 c:\users\vikram patel\desktop\oops_c++\set 1\point_class\point.h
+
+1626083834 source:c:\users\vikram patel\desktop\oops_c++\set 1\point_class\point.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	"Point.h"
+

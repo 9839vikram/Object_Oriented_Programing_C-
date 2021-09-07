@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625862343 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\customer_class\customer_class.cpp
+	<iostream>
+	"Customer_class.h"
+
+1625861462 c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\customer_class\customer_class.h
+
+1625862561 source:c:\users\vikram patel\desktop\ltts_working_268974\oops_c++\set 1\customer_class\main.cpp
+	<iostream>
+	"Customer_class.h"
+
